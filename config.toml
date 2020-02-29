@@ -1,0 +1,36 @@
+baseurl = "https://example.com/"
+title = "Hugo Themes"
+paginate = 5
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+googleAnalytics = "UA-XXXXXXXX-XX" # Optional
+
+[Author]
+  name = "Hugo Author"
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "tags"
+  weight = 3
+
+[params.logo]
+  url = "icon.png"
+  width = 50
+  height = 50
+  alt = "Logo"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

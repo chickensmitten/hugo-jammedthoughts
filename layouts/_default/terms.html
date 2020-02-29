@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+<div class="container" role="main">
+  <article class="post-preview">
+    {{ range $index, $term := .Data.Terms.Alphabetical }}
+      <div class="tags">
+        <h4 class="tag-name" >
+          <a href="{{ .Page.Permalink }}/">{{ $term.Name }}</a>
+          <span class="badge">{{ $term.Count }}</span>
+        </h4>
+      </div>
+    {{ end }}
+  </article>
+</div>
+
+{{ end }}
