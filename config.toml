@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://sharp-panini-e47ec7.netlify.com/"
 title = "Hugo Themes"
 paginate = 5
 languageCode = "en"
