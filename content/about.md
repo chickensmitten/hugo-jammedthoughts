@@ -1,9 +1,9 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
+description = "A blog post where I try to jam thoughts in me"
 date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+aliases = ["about-us","about-jammed-thoughts","contact"]
+author = "Sheng Yeong"
 +++
 
 Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
