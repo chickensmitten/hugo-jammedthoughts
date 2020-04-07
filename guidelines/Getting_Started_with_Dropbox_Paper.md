@@ -31,7 +31,7 @@ Dropbox Paper is great for capturing ideas and gathering quick feedback from you
 
 **Starting a new line** activates the insert toolbar, where you can add media from other apps, links to Dropbox files, photos, and more.
 
-![](https://paper-attachments.dropbox.com/s_72143DBFDAF4C9DE702BB246920BC47FE7E1FA76AC23CC699374430D94E96DD2_1523574441249_paper-insert.png)
+[<img src="https://paper-attachments.dropbox.com/s_72143DBFDAF4C9DE702BB246920BC47FE7E1FA76AC23CC699374430D94E96DD2_1523574441249_paper-insert.png" width="100%;"/>](https://paper-attachments.dropbox.com/s_72143DBFDAF4C9DE702BB246920BC47FE7E1FA76AC23CC699374430D94E96DD2_1523574441249_paper-insert.png)
 
 
 
@@ -44,7 +44,7 @@ Dropbox Paper is great for capturing ideas and gathering quick feedback from you
 
 **Selecting images** activates the image toolbar, where you can align images left, center, right or expand them to full width.
 
-![](https://paper-attachments.dropbox.com/s_72143DBFDAF4C9DE702BB246920BC47FE7E1FA76AC23CC699374430D94E96DD2_1523473869783_Hot_Sauce.jpg)
+![](https://paper-attachments.dropbox.com/s_72143DBFDAF4C9DE702BB246920BC47FE7E1FA76AC23CC699374430D94E96DD2_1523473869783_Hot_Sauce.jpg#thumbnail)
 
 
 Paste images or gifs right next to each other and they'll organize automatically. Click on an image twice to start full-screen gallery view.
@@ -54,8 +54,8 @@ Paste images or gifs right next to each other and they'll organize automatically
 ![](https://paper-attachments.dropbox.com/s_72143DBFDAF4C9DE702BB246920BC47FE7E1FA76AC23CC699374430D94E96DD2_1523564528339_Boom_Box_Melt.png)
 ![](https://paper-attachments.dropbox.com/s_72143DBFDAF4C9DE702BB246920BC47FE7E1FA76AC23CC699374430D94E96DD2_1523564549819_Soccerball_Melt.png)
 
-![You can add captions too](https://paper-attachments.dropbox.com/s_72143DBFDAF4C9DE702BB246920BC47FE7E1FA76AC23CC699374430D94E96DD2_1523564518899_Cacti_Melt.png)
-![What a strange, melting toaster!](https://paper-attachments.dropbox.com/s_72143DBFDAF4C9DE702BB246920BC47FE7E1FA76AC23CC699374430D94E96DD2_1523564508553_Toaster_Melt.png)
+![You can add captions too](https://paper-attachments.dropbox.com/s_72143DBFDAF4C9DE702BB246920BC47FE7E1FA76AC23CC699374430D94E96DD2_1523564518899_Cacti_Melt.png#thumbnail)
+![What a strange, melting toaster!](https://paper-attachments.dropbox.com/s_72143DBFDAF4C9DE702BB246920BC47FE7E1FA76AC23CC699374430D94E96DD2_1523564508553_Toaster_Melt.png#thumbnail)
 
 
  
