@@ -20,6 +20,7 @@ aliases = ["migrate-from-jekyl"]
 
 I love to learn.
 
+
 One of my favorite past time is challenging my preconceived notions. Being wrong for the right reasons puts me out of my comfort zone. Through it, I feel I am improving my life.
 
 
