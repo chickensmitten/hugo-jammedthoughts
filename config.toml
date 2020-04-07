@@ -9,7 +9,7 @@ footnoteReturnLinkContents = "^"
 googleAnalytics = "UA-XXXXXXXX-XX" # Optional
 
 [Author]
-  name = "Sheng Yeong"
+  name = "Sheng"
 
 [[menu.main]]
   identifier = "about"
