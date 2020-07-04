@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>product on Jammed Thoughts</title>
+    <link>https://jammedthoughts.com/categories/product/</link>
+    <description>Recent content in product on Jammed Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jammedthoughts.com/categories/product/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scratching My Own Itch</title>
+      <link>https://jammedthoughts.com/post/scratching_my_own_itch/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jammedthoughts.com/post/scratching_my_own_itch/</guid>
+      <description>I love to learn. One of my favorite past time is challenging my preconceived notions. Being wrong for the right reasons puts me out of my comfort zone. Through it, I feel I am improving my life.
+Yet, learning seems to be a frustrating and futile experience. Why frustrating and futile you ask? Because I tend to forget most of what I learned. After many rounds of this forgetting cycle, I have a sense that it is all for naught.</description>
+    </item>
+    
+  </channel>
+</rss>

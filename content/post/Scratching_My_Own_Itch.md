@@ -10,7 +10,7 @@ tags = [
     "serendipity",
 ]
 categories = [
-    "pproduct",
+    "product",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]

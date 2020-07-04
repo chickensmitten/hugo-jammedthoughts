@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jammed Thoughts</title>
+    <link>https://jammedthoughts.com/post/</link>
+    <description>Recent content in Posts on Jammed Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jammedthoughts.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why read books when we forget?</title>
+      <link>https://jammedthoughts.com/post/why_read_books_when_we_forget/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jammedthoughts.com/post/why_read_books_when_we_forget/</guid>
+      <description>Reading is one of my favorite past times.
+There was a point in time where I took the one book a week challenge where I tried to finish a non-fiction book every week. The idea that successful people read a lot was something I wanted to emulate. However, a few months in, I gave up.
+I lost motivation, not because I couldn&amp;rsquo;t finish a book once a week. It&amp;rsquo;s because I forget most of what I read very quickly.</description>
+    </item>
+    
+    <item>
+      <title>Scratching My Own Itch</title>
+      <link>https://jammedthoughts.com/post/scratching_my_own_itch/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jammedthoughts.com/post/scratching_my_own_itch/</guid>
+      <description>I love to learn. One of my favorite past time is challenging my preconceived notions. Being wrong for the right reasons puts me out of my comfort zone. Through it, I feel I am improving my life.
+Yet, learning seems to be a frustrating and futile experience. Why frustrating and futile you ask? Because I tend to forget most of what I learned. After many rounds of this forgetting cycle, I have a sense that it is all for naught.</description>
+    </item>
+    
+  </channel>
+</rss>

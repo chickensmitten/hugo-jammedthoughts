@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jammed Thoughts</title>
+    <link>https://jammedthoughts.com/tags/</link>
+    <description>Recent content in Tags on Jammed Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jammedthoughts.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>existentialism</title>
+      <link>https://jammedthoughts.com/tags/existentialism/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jammedthoughts.com/tags/existentialism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading</title>
+      <link>https://jammedthoughts.com/tags/reading/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jammedthoughts.com/tags/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sherlock Holmes</title>
+      <link>https://jammedthoughts.com/tags/sherlock-holmes/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jammedthoughts.com/tags/sherlock-holmes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sieve</title>
+      <link>https://jammedthoughts.com/tags/sieve/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jammedthoughts.com/tags/sieve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>active recall</title>
+      <link>https://jammedthoughts.com/tags/active-recall/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jammedthoughts.com/tags/active-recall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flashcards</title>
+      <link>https://jammedthoughts.com/tags/flashcards/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jammedthoughts.com/tags/flashcards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>serendipity</title>
+      <link>https://jammedthoughts.com/tags/serendipity/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jammedthoughts.com/tags/serendipity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thoughtbento</title>
+      <link>https://jammedthoughts.com/tags/thoughtbento/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jammedthoughts.com/tags/thoughtbento/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
